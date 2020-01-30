@@ -285,16 +285,16 @@ input:focus, textarea:focus, *:required:focus{border-color:#F08714;}
 
 
 /* Flexslider */
-.flex-direction-nav a, .flex-direction-nav .flex-disabled:hover{color:#FFFFFF;}
+.flex-direction-nav a, .flex-direction-nav .flex-disabled:hover{color:#000; font-weight: bold;}
 .flex-direction-nav a:hover{color:#F08714;}
 
 
 /* Rows */
-.row0, .row0 a{color:rgba(255,255,255,.5); background-color:#141F35;}
-.row1{color:#FFFFFF; background-color:#141F35;}
+.row0, .row0 a{color:#251605; background-color:#80c5de;}
+.row1{color:#FFFFFF; background-color:#80c5de;}
 .row2{color:#474747; background-color:#F7F7F7;}
 .row3{color:#474747; background-color:#FFFFFF;}
-.row4{color:#CBCBCB; background-color:#141F35;}
+.row4{color:#CBCBCB; background-color:#80c5de;}
 .row5, .row5 a{color:#474747; background-color:#FFFFFF;}
 
 
@@ -305,11 +305,11 @@ input:focus, textarea:focus, *:required:focus{border-color:#F08714;}
 
 /* Header */
 #header #logo a{color:inherit;}
-#header #logo p{color:rgba(255,255,255,.5);}
+#header #logo p{color:#251605;}
 
 
 /* Page Intro */
-#pageintro li p:first-of-type{color:rgba(255,255,255,.5);}
+#pageintro li p:first-of-type{color:#251605;}
 
 
 /* Split Box */
@@ -320,7 +320,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#F08714;}
 /* Content Area */
 .latest article figure figcaption{color:#FFFFFF;}
 .latest article figure figcaption time strong{background-color:#F08714;}
-.latest article figure figcaption time em{background-color:#141F35;}
+.latest article figure figcaption time em{background-color:#80c5de;}
 .latest article .txtwrap{color:#474747; background-color:#FFFFFF;}
 
 
@@ -343,7 +343,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#F08714;}
 #mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#F08714; background-color:inherit;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(0,0,0,.6); border-color:rgba(0,0,0,.6);}
 #mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#F08714;}
-#mainav form select{color:#FFFFFF; background-color:#141F35; border-color:rgba(255,255,255,.2);}
+#mainav form select{color:#FFFFFF; background-color:#80c5de; border-color:rgba(255,255,255,.2);}
 
 #breadcrumb a{color:inherit; background-color:inherit;}
 #breadcrumb li:last-child a{color:#F08714;}
